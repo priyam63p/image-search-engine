@@ -1,4 +1,4 @@
-const accessKey = "put access key of unsplash here";
+const accessKey = "YOUR_UNSPLASH_ACCESS_KEY";
 const searchForm = document.getElementById("search-form");
 const searchBox = document.getElementById("search-box");
 const searchResult = document.getElementById("search-result");
